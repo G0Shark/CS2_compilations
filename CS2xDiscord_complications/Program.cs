@@ -26,11 +26,11 @@ class Program
 
         if (i == '1')
         {
-            new Program().MainAsync("MTI2Nzg4ODg5Njc1OTQzMTI0OA.GManv2.RJnjYHKRUhddogSFrX2WS6f-XbK3d9YcIc6dqQ")
+            new Program().MainAsync("here discord bot token")
                 .GetAwaiter().GetResult();
         }else if (i == '2')
         {
-            new Program().MainAsync("MTI2ODU4NzAyMjM0MDE5ODQzMQ.GgB5R-.vh_Ax-AwdY1oszcefL0Emr8mEvo1TIDV_-r8ZY")
+            new Program().MainAsync("here discord bot token for team 2")
                 .GetAwaiter().GetResult();
         }
     }
